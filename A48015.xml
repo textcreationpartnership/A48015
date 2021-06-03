@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a lawyer of the Inner Temple, to his friend in the country, concerning the East-India stock, and the project of uniting the New and Old Companies.</title>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48015</idno><idno type="EEBO-CITATION">99832658</idno>
+  <idno type="VID">37132</idno>
+  <idno type="EEBO-PROQUEST">2240955899</idno>
+  
+            <idno type="STC">Wing L1409</idno>
+            <idno type="STC">ESTC R221333</idno>
+            <idno type="PROQUEST">99832658</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832658e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1781:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a lawyer of the Inner Temple, to his friend in the country, concerning the East-India stock, and the project of uniting the New and Old Companies.</title>
+               </titleStmt>
+               <extent>17 (i.e. 18) p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year MDCXCVIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page numbers 17 and 18 are transposed.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37132:1"/>
+            <p>A LETTER FROM A Lawyer of the Inner Temple, TO His Friend in the Country, Concerning the East-India Stock, AND THE PROJECT Of Uniting the <hi>New and Old COMPANIES.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed in the Year MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37132:2"/>
+            <pb n="3" facs="tcp:37132:2"/>
+            <head>A LETTER FROM A Lawyer of the <hi>Inner Temple,</hi> TO His Friend in the <hi>Country,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF you had consulted me about the Title of an Estate, in order to a Purchase or a Mortgage, I might be able to do you some Service, but these Matters of Trade and Stocks are very much out of the Road of my Profession; How<g ref="char:EOLhyphen"/>ever being satisfied that you will do nothing of great Im<g ref="char:EOLhyphen"/>portance and lay out no considerable Sum, without my Advice, whom you trust in your other Concerns, in obedience to your Command, I shall give you my Opinion concerning that Mony which you design as Portions for your three Daughters, and which, as you write me word, you have some Intentions to lay out in the New <hi>East-India</hi> Stock.</p>
+            <p>By what I can gather from your Letter, that which chiefly puts you upon these Thoughts, is the Hopes your Correspondents in <hi>London</hi> give you that Matters are like to be accommodated between the New and Old <hi>East-India</hi> Companies, and that upon a good Union and Coalition of these two jarring Interests, the
+<pb n="4" facs="tcp:37132:3"/> Actions of the New Company will forthwith rise, and that if this happens, you will have laid out your Money to great advan<g ref="char:EOLhyphen"/>tage.</p>
+            <p>My Business therefore as your Councel, and which is more as your Friend, must be to state things cleerly to you: And I shall begin with telling you what Steps have been made towards an Agreement, I must likewise let you know what Judgment the best and ablest Men in their Publick Discourses make concerning the new Charters, What sort of Men pushed on the Project first, And what People think of this unpresidented Way of raising Money, by selling the Trade of <hi>England:</hi> Lastly, I must lay be<g ref="char:EOLhyphen"/>fore you upon what Foot the New Company stands, in relation to several Points in Law; And when I have given you what Lights I can into all these Matters, you your self will be best able to judge whether or no it is advisable for you to imbark with these Sharpers and Cunning Fellows of the City.</p>
+            <p>First then, I am credibly informed that a very godly and dis<g ref="char:EOLhyphen"/>creet Gentleman has taken upon himself to be a Mediator be<g ref="char:EOLhyphen"/>tween the two Companies, but his Christian Endeavours have hitherto proved ineffectual: And, that I might give you the best Information I could, I have procured from a Friend concerned in the Old Stock, Copies of such Papers as relate to this projected Agreement.</p>
+            <p>This good Man has represented to the Old Company, in order to incline them to an Accommodation,
+<q>
+                  <p n="1">
+                     <hi>1st.</hi> That by the Act of Parliament, they are impowered to trade no longer than till the 29th of <hi>September, 1701.</hi> by which time all their Effects from <hi>India</hi> are to be brought away.</p>
+                  <p n="2">
+                     <hi>2ly.</hi> That if by Vertue of the Subscription made by Mr. <hi>Dubois,</hi> Li<g ref="char:EOLhyphen"/>cense be given by him, or if he Trades in his own Name, to the Pro<g ref="char:EOLhyphen"/>portion of his Subscription, there is <hi>5. l. per Cent.</hi> to be paid to the New Company, and Securities must be entred into according to the Act.</p>
+                  <p n="3">
+                     <hi>3ly.</hi> That the Hopes of getting the <hi>5 l. per Cent.</hi> discharged by Act of Parliament, are very uncertain.</p>
+                  <p n="4">
+                     <hi>4ly.</hi> That by the Act there is but one Company to be in a Joynt Stock, and that all Traders who are not in this Joynt Stock are to pay the <hi>5 l. per Cent.</hi> before mentioned.</p>
+                  <p n="5">
+                     <pb n="5" facs="tcp:37132:3"/>
+                     <hi>5ly.</hi> That the Charters granted to the former Company are all deter<g ref="char:EOLhyphen"/>minable and void at the three Years end, so that in case there be no Accommodation the Charge of all their Forts, Garrisons, <hi>&amp;c.</hi> will lye singly upon the Old Company.</p>
+                  <p n="6">
+                     <hi>6ly.</hi> That by an Accommodation, a considerable Sum may be obtained for the Forts, Castles, Ammunition and other dead Stock, which otherwise will amount to little, and not answer the Trouble and Charge.</p>
+                  <p n="7">
+                     <hi>7th.</hi> That to have the Trade carried on by English-men vying one upon another, will be prejudicial to both, and to the Nation in general; and, as Christians and English-men, all Designs of prejudicing our Neighbours and Country-men should be laid aside as unjust.</p>
+               </q>
+            </p>
+            <p>To the New Company it has been represented, in order to bring them to Terms of Agreement, That it may be of ill Con<g ref="char:EOLhyphen"/>sequence to manage this Trade in a New Method, and parti<g ref="char:EOLhyphen"/>cularly that it may be dangerous in this Juncture to send an Am<g ref="char:EOLhyphen"/>bassador to the <hi>East-Indies.</hi>
+            </p>
+            <q>
+               <p n="1">
+                  <hi>1st.</hi> That this is an improper Time for such an Embassie, and that if it was deferred till after the three Years, when there shall be but one Company, it might be more convenient; That the Company in <hi>In<g ref="char:EOLhyphen"/>dia</hi> have always represented the English Nation, and that all Trea<g ref="char:EOLhyphen"/>ties and Priviledges obtained, have been on the behalf of <hi>England.</hi> That to send an Ambassador to the Mogul, when there are two Com<g ref="char:EOLhyphen"/>panies in being, will look as if the English Nation were divided, and make the Mogul jealous both of the one and the other; Besides, That it will be difficult to frame Instructions for an Ambassador for him so to manage himself in his Discourse, as not to create some Misun<g ref="char:EOLhyphen"/>derstanding in the Mogul touching the English Nation, or of one or the other Company, which may turn to the general Prejudice of <hi>England.</hi>
+               </p>
+               <p n="2">
+                  <hi>2ly.</hi> It may be considered what shall be the Substance or Matter of this Embassie, Whether he shall be allowed to make any Reflections upon the former Company, either as to the late War with the Mogul's Subjects or to their Management of their Affairs, in relation to the maintaining of Castles and Forts, or of their not being approved by the King and Parliament.</p>
+               <pb n="6" facs="tcp:37132:4"/>
+               <p>
+                  <hi>First,</hi> If any such Reflection be allowed, the Consequence may be very ill: <hi>1.</hi> May it not incline the Mogul to have low Thoughts of a King of <hi>England,</hi> that by his Power he shall not make his Subjects comply to act only according to his Prescription? <hi>2.</hi> May it not cause the Mogul to seize upon all the Effects of the Old Company, which would be contrary to the intent of the Act of Parliament, which grants them three Years liberty to trade? <hi>3.</hi> As to the for<g ref="char:EOLhyphen"/>mer Company's maintaining Castles and Forts in several Parts of <hi>India,</hi> some by grant from the Mogul and some in other places; If the New Company shall think fit to say, that they will depend upon the Protection of the Great Mogul, without any such Security for their own Defence, will not this recal all the former Grants to the Eng<g ref="char:EOLhyphen"/>lish? and may it not be of dangerous consequence, to subject in full all the English Effects to be seized on, and confiscated upon any Pre<g ref="char:EOLhyphen"/>tence, by reason of any Pyrates, or of any Misinformation or Sugge<g ref="char:EOLhyphen"/>stion against the English by their Competitors in Trade, either Dutch, French or others.</p>
+               <p>
+                  <hi>Secondly,</hi> If the Ambassador shall not be allowed to make any Refle<g ref="char:EOLhyphen"/>ctions upon the former Company, as before mentioned, <hi>which would be very difficult for him to avoid,</hi> It is humbly conceived his Embassage would be very insignificant and no way answerable to the Charge it will cost, while the former Company is in being, and al<g ref="char:EOLhyphen"/>lowed by the King and Parliament to continue for three Years, the New Company will be looked upon in <hi>India</hi> in the Nature of Inter<g ref="char:EOLhyphen"/>lopers.</p>
+            </q>
+            <p>Thus this Gentleman has shewn to both Sides very sufficient Reasons why they should come to a fair Agreement, and I am told he has often pressed the Directors and Court of Committees for both Companies, each side to nominate Persons who might treat together in order to bring on such an Agreement as may be for the mutual Advantage of both Companies.</p>
+            <p>The Mediator has done his best to bring on the Union, which puts Men upon Inquiry into the Cause why as yet his good Inten<g ref="char:EOLhyphen"/>tions have had no better effect.</p>
+            <p>Among others, I have look'd into the Reasons alledg'd on both sides; some of the New Charter say, They cannot agree with the Old Company, because their Foundation is rotten; That they are liable to Objections in Parliament for their Arbitrary Proeedings
+<pb n="7" facs="tcp:37132:4"/> in <hi>India;</hi> That a New Stock may be seized as a Reprizal, for Damage done during the last War, by the Old Company, upon the Mogul's Subjects; That the Demands of the Mogul upon that score are Immence; That the Old Company ask a great Sum for their Forts and Castles, which, instead of being beneficial, are a burthen to the Trade; (as the Interlopers have offered to prove in Parliament;) That their Debts in <hi>India</hi> and <hi>Persia</hi> are very considerable; That they owe a vast Sum upon their Seal here in <hi>England;</hi> That their Stock in <hi>India,</hi> upon the Sea, and at Home; is of no real Value, and hardly sufficient to pay their Debts.</p>
+            <p>If all this be their Case, (as for ought I know it is) we are not to wonder that the most prudent Part of the New Company should stand off, and not be willing to involve themselves in their Debts and Troubles; for, who, that is fresh and young, would de<g ref="char:EOLhyphen"/>sire to be in a manner joyn'd in Wedlock with a poor, rotten, painted and scandalous old Whore?</p>
+            <p>For these Reasons, such of the New Company as understand Business and the World, like not the Agreement: On the other hand, the Members of the Old Charter are against an Union, as thinking the New Company to be upon as wrong a Bottom as a<g ref="char:EOLhyphen"/>ny of their Predecessors.</p>
+            <p>
+               <hi>First,</hi> 'Tis commonly said, That they cannot Prosper, as be<g ref="char:EOLhyphen"/>ing founded in Iniquity, and as deriving their Original from an apparent Injustice done to their Fellow-Subjects, for the new Subscribers of 744000 <hi>l.</hi> to his present Majesty's Charter, made pursuant to the Regulations voted in Parliament, had committed no Fault, and were no ways obnoxious, yet they are deprived of their Estates, and by this new Act the Innocent and the Guilty are involved in one and the same Punishment.</p>
+            <p>'Tis likewise said, That their Charters are not▪ warranted by Act of Parliament; but this Point, as being the most material, I shall reserve for the last: 'Tis also alledg'd, That this new Settlement of the Trade was promoted by two or three Men to gratifie their own Ambition, who having formed themselves a strong Interest, by erecting the Bank of <hi>England,</hi> had a mind to be yet stronger by being at the head of a Company of their own creation: To engross so much Power was Cunning in them, but to let them keep it will perhaps not be thought Wise in others; and upon this Score only, 'tis more than probable that these new Charters may be attacked in Parliament.</p>
+            <pb n="8" facs="tcp:37132:5"/>
+            <p>These Reasons may make those of the Old Charter afraid to joyn with a New Company, which, in its Infancy, has so many Blots and Stains upon it.</p>
+            <p>'Tis true, the Crimes of the Old <hi>East-India</hi> Company are very great, but the Subscribing before-hand to take away Mens Estates, and afterwards voting it into a Law, is what, till last Year, was never heard of in an English Parliament: Can it be thought, that a Company, setting out in their very beginning upon such wrong Principles, will ever do any thing for their Country's Good, or to advance the Trade of <hi>England?</hi>
+            </p>
+            <p>Such of the Old Company as have either Reputation or Estates to lose, seem loth to joyn with a New Charter, which is liable to so many Objections in both Houses of Parliament.</p>
+            <p>
+               <hi>First,</hi> The Establishment was procured at the latter end of an eight Months Session, when there were but few Members in the House, of which very many had an immediate Dependance upon the Court, or were Subscribers themselves; and, of which many, at the very Passing of the Bill, declared, That they consented to such a Proceeding out of meer Necessity in that Juncture.</p>
+            <p>The Protestation, signed by so many Lords, is a sufficient Evi<g ref="char:EOLhyphen"/>dence how much the Project was disrelished in that Honourable House; besides, it came tacked to a Money-Bill, by which Pra<g ref="char:EOLhyphen"/>ctice, their Lordships were debarr'd of their deliberative Voice in the Settlement of so great a part of the Trade of <hi>England,</hi> so that the Lords stand no ways engaged to favour this Establish<g ref="char:EOLhyphen"/>ment, which was made in a manner without their Consent.</p>
+            <p>Nor is it reasonable to think, that the King (who makes Ju<g ref="char:EOLhyphen"/>stice the Rule of all his Actions, and who is more jealous of his Fame and Glory than any Prince that ever sate upon the Throne of <hi>England</hi>) can like a Company that is built upon the Ruines of a Charter, which his Majesty had with so much deliberation, and so solemnly granted.</p>
+            <p>You know very well that there are a great many Gentlemen concerned in the Old Charter, who had no hand in those irregu<g ref="char:EOLhyphen"/>lar Proceedings of the Old Company, which were complained of in Parliament: All these are cautious of running into new Dan<g ref="char:EOLhyphen"/>gers, and seem rather desirous to draw in their Effects from <hi>India,</hi> and to wind up their Bottom, than to joyn their Old Stock, and to come with fresh Subscriptions into a New Company, which was erected to answer a pressing Necessity at that time, when King,
+<pb n="9" facs="tcp:37132:5"/> Lords and Commons, in all appearance, would have been glad of any other Supply, that did not carry along with it so many Hardships.</p>
+            <p>But, if (which looks like a Judgment of God Almighty's upon those who were not only for Ruining the Old Company, but for excluding all but themselves from this Trade) it should be found that the New Subscribers are not intituled to the Benefits of the Act, it will put an end to the Matter in question.</p>
+            <p>And, in order to give you my Opinion therein, I shall set down the Heads of those Parts of the Act, and of the King's Commission, pursuant thereunto, which not having been complied withal, shall be the Foundation of my said Opinion.</p>
+            <p>By the Act for raising a Sum not exceeding two Millions,<note place="margin">9 <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>W<gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </note> upon a Fund for payment of Annunities, after the rate of 8 <hi>per. Cent. per. Ann.</hi> and for setling the Trade to the <hi>East-I<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s,</hi> several Duties upon Salt, Vellom and Parchment, <hi>&amp;c.</hi> are granted to his Majesty, and appropriated for the raising of a yearly Fund of 160000 <hi>l.</hi> to be paid, and issued out to such Persons as should sub<g ref="char:EOLhyphen"/>scribe and pay a Sum of two Millions, at the times and manner prescribed by the Act, after the rate of 8 <hi>per. Cent. per Ann.</hi>
+            </p>
+            <p>His Majesty may by Commission,<note place="margin">Pa<gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> under the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> appoint Commissioners for taking Subscriptions till the 29th of <hi>September,</hi> 1698. from any Persons and Corporations (except the Bank of <hi>England</hi>) for two Millions.</p>
+            <p>It is enacted that it shall and may be lawful for his Majesty by his Commission aforesaid,<note place="margin">74 <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> to direct how and in what manner they shall proceed to execute the same in all Matters and Things relating to this Service.</p>
+            <p>It is enacted,<note place="margin">74 <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> that during the time by the Act limited for ta<g ref="char:EOLhyphen"/>king the said Subscriptions, it shall and may be lawful for all and every Person and Persons, <hi>&amp;c.</hi> to subscribe, <hi>&amp;c.</hi> and all the Monies so to be subscribed, shall be answered and paid by the re<g ref="char:EOLhyphen"/>spective Subscribers thereof, to such as shall be appointed to re<g ref="char:EOLhyphen"/>ceive the same for his Majesty's use, in manner following, that is to say, one full 10th Part (the whole in 10 equal Parts being divided) of every Sum of Mony so subscribed, shall be paid to his Majesty's use, as aforesaid, at or before the making of each Subscription respectively.</p>
+            <pb n="10" facs="tcp:37132:6"/>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>0.</note>It is further enacted, that if any Person or Persons, Bodies Poli<g ref="char:EOLhyphen"/>tick or Corporate, who shall have subscribed as aforesaid, do not pay down, the first 10th part upon his or their Subscription or at the time of making thereof as aforesaid, then every such Sub<g ref="char:EOLhyphen"/>scription (without such Payment) shall be utterly void and of none effect.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>5.</note>And for the farther Encouragement of the said Subscribers, every Person may default and recount, or shall be repaid (in Con<g ref="char:EOLhyphen"/>sideration of their Prompt Subscription or Payment) after the rate of 10 <hi>per. Cent.</hi> &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>6.</note>The Commissioners of the Treasury, out of any unappropriated Mony, may issue for incident Charges for Execution of the Com<g ref="char:EOLhyphen"/>mission.</p>
+            <p>His Majesty may incorporate the Subscribers (upon whose Sub<g ref="char:EOLhyphen"/>scriptions the first tenth part shall be paid as aforesaid) by the Name of the General Society, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>8.</note>The Subscribers of 500 <hi>l.</hi> each (who shall have severally paid one tenth Part of the Sum or Sums by them subscribed) may meet and elect Trustees.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>0.</note>In case two Millions or one Moiety be subscribed as aforesaid, then the Subscribers to have the Trade to the <hi>East-Indies,</hi> exclu<g ref="char:EOLhyphen"/>sive of all others.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>3.</note>If any Corporations or Persons having particular Interest in the General Society, desire to be incorporated in a Joynt Stock, his Majesty may incorporate them.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>8. <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uly,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>98.</note>All the Money arising by this Act is appropriated.</p>
+            <p>His Majesty, by his Commission under the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for taking the said Subscriptions, doth direct and appoint, that every Subscription, whereupon one tenth part shall not be paid at the time of subscribing, shall be utterly void and of none effect, but that the Receivers may allow the discount of 10 <hi>l. per Cent.</hi> allowed by the Act.</p>
+            <p>And, because you shall have every thing before you, I have procured the Copy of one of those Receipts, which Five of the Eight Receivers appointed for this purpose, gave to a Friend of Mine that was concerned in the Subscription, which I here in<g ref="char:EOLhyphen"/>sert:
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="11" facs="tcp:37132:6"/>
+                     <p>
+                        <table>
+                           <row>
+                              <cell rows="2">REceiv'd this 14th Day of <hi>July, 1698.</hi> by Vertue of a Commission, or Letters Pa<g ref="char:EOLhyphen"/>tents under the Great Seal of <hi>England,</hi> from His Majesty King <hi>William</hi> the Third, bearing date the 14th Day of <hi>July,</hi> in the Tenth Year of His Reign, of <hi>A. B.</hi> the Sum of <hi>689 l. 3 s. 4 d.</hi> which with the Sum of <hi>210 l. 16 s. 8 d.</hi> discounted for Interest, and the Sum of <hi>100 l.</hi> allowed to him by his Majesty, for encouragement of Prompt Subscriptions and Payment, make in the whole, the Sum of <hi>1000 l.</hi> being the first tenth Part of the Sum of <hi>10000 l.</hi> subscribed by the said <hi>A. B.</hi> towards the Sum of two Mil<g ref="char:EOLhyphen"/>lions, to be raised by Vertue of an Act of Par<g ref="char:EOLhyphen"/>liament, entituled, <hi>An Act for raising a Sum not exceeding two Millions, upon a Fund for payment of Annuities after the rate of 8</hi> l. per Cent. per Ann. <hi>and for setling the Trade to the</hi> East-Indies. Witness our Hands this 14th Day of <hi>July, 1698.</hi>
+                              </cell>
+                              <cell>
+                                 <hi>l.</hi>
+                              </cell>
+                              <cell>
+                                 <hi>s.</hi>
+                              </cell>
+                              <cell>
+                                 <hi>d.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>1000</cell>
+                              <cell>00</cell>
+                              <cell>00</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>H. F.</item>
+                              <item>Gilbert Heathcote,</item>
+                              <item>Tho. Vernon,</item>
+                              <item>Edw. Allen,</item>
+                              <item>J. Bateman.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <pb n="12" facs="tcp:37132:7"/>
+            <p>Upon consideration of this Case, I am of opinion the tenth part of the respective Subscriptions not being paid in according to the Act of Parliament, but one <hi>per Cent.</hi> being allowed the Subscribers over and above the 10 <hi>l. per Cent.</hi> allowed by the Act, <hi>that the Subscriptions are void,</hi> and the actual Payment of the tenth part being by the Act directed to be a Qualification of the Subscribers, whom the King is enabled to incorporate, with the Priviledge intended for them of having the <hi>East-India</hi> Trade ex<g ref="char:EOLhyphen"/>clusive of all others; That the Subscribers failing to qualifie themselves by making such payment of a tenth part, they are consequently not intituled to the Advantages of the Act of ha<g ref="char:EOLhyphen"/>ving the Trade exclusive of all others: And that which makes the Defectiveness of the Subscriptions evident, beyond the possibility of being controverted, is, that by the Receipts given each parti<g ref="char:EOLhyphen"/>cular Subscriber, it will appear, that the one <hi>per Cent.</hi> is allowed them over and above the Allowance given by the Act of Parlia<g ref="char:EOLhyphen"/>ment, whereby it is plain, that the Receivers have taken upon them to avoid both the Act of Parliament and the King's Com<g ref="char:EOLhyphen"/>mission grounded thereon, which gave them no such Authority of allowing the one <hi>per Cent.</hi> to the Subscribers, but did enjoyn them to allow the 10 <hi>l. per Cent.</hi> only: And though the King in his Let<g ref="char:EOLhyphen"/>ters Patents, whereby he constitutes the General Society, doth acknowledge the receipt of the tenth part of the Subscription, yet the Fact being otherwise, that he did not, he is thereby de<g ref="char:EOLhyphen"/>ceived in his Grant, and the Grant is at any time voidable by <hi>Scire Facias</hi> or <hi>Quo Warranto.</hi>
+            </p>
+            <p>'Tis indeed alledged, That the Subscribers will be relieved as to this Omission of theirs, but how likely they are to meet with such Favour will appear when you consider that the Allowance of the 10 <hi>per Cent.</hi> was all that the Sollicitors and Leaders in the Project desired from the Parliament as an Incouragement for Sub<g ref="char:EOLhyphen"/>scriptions and prompt Payment of the two Millions; And that the Old Company offered to lend the two Millions, without any allowance that I could ever hear of; and to make their Proposal good, they offered to lay down two hundred thousand Pounds, whereas to raise these two Millions by the New Company it has Cost the Publick as follows:
+<table>
+                  <pb n="13" facs="tcp:37132:7"/>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Allowance by the Act, above,</cell>
+                     <cell>40000</cell>
+                  </row>
+                  <row>
+                     <cell>To Eight Receivers or Promoters of the Sub<g ref="char:EOLhyphen"/>scriptions 2000 <hi>l.</hi> each; in all</cell>
+                     <cell>16000</cell>
+                  </row>
+                  <row>
+                     <cell>Incident Charges, about</cell>
+                     <cell>04000</cell>
+                  </row>
+                  <row>
+                     <cell>Allowed without Authority of Parliament,</cell>
+                     <cell>20000</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>80000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>These Allowances seem very large; besides, 'tis reported, that great Sums have been privately given to support the New Stock and to carry on the subsequent Payments; all which to<g ref="char:EOLhyphen"/>gether is pretty like what a very considerable Gentleman once said of the Old Company's Revenues in <hi>India, That the Hands fed the Feet, and the Feet the Hands, but produced nothing to the Pub<g ref="char:EOLhyphen"/>lick;</hi> for, at this rate of management, the Funds given in Par<g ref="char:EOLhyphen"/>liament serve to no other purpose.</p>
+            <p>It will be worth Inquiry by what Authority the Receivers made this Allowance of twenty thousand Pounds; the King's Commission is in the negative, and declares, that all Sub<g ref="char:EOLhyphen"/>scriptions whereupon one tenth part is not paid at the time of subscribing, shall be utterly void and of none effect. So that here is the highest Fraud imaginable in the Execution of this Commission; and to countenance this Fraud in the Re<g ref="char:EOLhyphen"/>ceipts, they make these Allowances as by Vertue of His Maje<g ref="char:EOLhyphen"/>sty's Commission, whereas in truth they are directly contrary to that Commission, which should have been their Rule and Guide. And, by the way, many People wonder how the Pro<g ref="char:EOLhyphen"/>ject of Receivers came into the Act, which gives an oppor<g ref="char:EOLhyphen"/>tunity to elude the Law lately made for regulating the Ex<g ref="char:EOLhyphen"/>chequer, where the Money must otherways have been actually paid in, and then there had not been the same convenience of striking <hi>fictitious Tallies.</hi>
+            </p>
+            <p>The two Millions granted are appropriated by the Act of Parliament, notwithstanding which the King's trusty and well<g ref="char:EOLhyphen"/>beloved Subjects, Sir <hi>H. F.</hi> Sir <hi>Theodore Jansen, Samuel Shep<g ref="char:EOLhyphen"/>heard, Gilbert Heathcote, Tho. Vernon, James Bateman, Edward
+<pb n="14" facs="tcp:37132:8"/> Allen,</hi> and <hi>Joseph Martin,</hi> have ventred out of this appropria<g ref="char:EOLhyphen"/>ted Money, to allow the Subscribers twenty thousand Pounds; but how they will answer such their Proceedings, is a very great Question: I cannot hear that in their Justification they can produce any Warrant from the Lords of the Treasury for their so doing; for such a Warrant would have begot a Doubt where the Power of Appropriating lay, whether in St. <hi>Stephen</hi>'s Chappel, or in the Cock-pit? They cannot ju<g ref="char:EOLhyphen"/>stifie themselves by Letters Patents from the King, and my Lord Chancellor is too cautious and too wise a Man and un<g ref="char:EOLhyphen"/>derstands the Laws better than to authorize such an Action under the Great Seal of <hi>England.</hi>
+            </p>
+            <p>'Tis true, that afterwards when it was reported, that the Charters might be called in question, immediately a Warrant was sent into <hi>Germany</hi> for his Majesty's signing, and dated at <hi>Goer,</hi> the 2/12 <hi>October,</hi> 1698. and counter-signed by the Lords of the Treasury; <hi>To allow to the said Receivers the Sum of twen<g ref="char:EOLhyphen"/>ty thousand Pounds, without Account, Imprest, or other Charge, to be set upon them or any of them for the same; the said Sum being in satisfaction of so much by them paid or allowed to the Subscribers of the said two Millions, for the Monies by them subscribed, being af<g ref="char:EOLhyphen"/>ter the rate of twenty Shillings</hi> per Cent. <hi>upon the whole two Mil<g ref="char:EOLhyphen"/>lions, which was subscribed on the</hi> 14th, 15th <hi>and</hi> 16th <hi>Days of</hi> July <hi>last.</hi>
+            </p>
+            <p>The New Company pretend, that this Authority supplies all Defects in their Proceedings, and that it makes up any Breach they may have made upon the Law: But, for my part, I cannot see that this Warrant does any more than direct the Lords of the Treasury to allow them twenty thousand Pounds, which the said Receivers had allowed to the Subscribers in the King's wrong, and for which without dispute they must other<g ref="char:EOLhyphen"/>wise have been accountable out of their own Estates. But will any Lawyer say, that this Warrant does make that legal, <hi>Ex post facto,</hi> which was illegal in the beginning? <hi>If these Receivers should come to be impeached in Parliament, for fraudulently executing the King's Commission, by diverting appropriated Money,</hi> Will their Council say, that they are justified by producing a Warrant procured ten Weeks after the Crime committed? Or can any Warrant or Direction dispense with the express Condition of
+<pb n="15" facs="tcp:37132:8"/> the Act, <hi>That unless the full tenth part be paid down according to the Act, then every such Subscription, without such Payment, shall be utterly void and of none effect?</hi>
+            </p>
+            <p>This Warrant of the King's pardons no Breach made upon his Laws, but allows <hi>Twenty Thousand Pounds out of any Mony unappropriated, being in satisfaction of so much allowed by the Receivers to the Subscribers:</hi> From whence it appears his Majesty did not direct the making this Allowance out of the two Millions, because it was all appropriated by the Act; tho' I am credibly inform'd, this Warrant was satisfied by levy<g ref="char:EOLhyphen"/>ing Tallies on the Receivers of the two Millions. From all which it follows, that the Grants or Charters are of that Nature, that his Majesty may avoid them, as being deceived in his Grant.</p>
+            <p>It may be Objected, That no Advantage ought to be ta<g ref="char:EOLhyphen"/>ken of this Omission, in not paying the first 10th Part; and truly many would incline to the merciful side, were it not no<g ref="char:EOLhyphen"/>torious that the Principal Leaders and Managers in this new Subscription, were for taking the same Advantage over the Old <hi>East-India</hi> Company. I my self have seen several Trans<g ref="char:EOLhyphen"/>actions before the Privy-Council in the Year 1693. and I find that some of these Receivers, several of the present Directors, and many of the Subscribers did set their Names to Petitions against the Old Charter, pressing the Government very ear<g ref="char:EOLhyphen"/>nestly at that time, to take an Advantage of an Omission the Old Company had made in not paying their Tax upon a precise Day, which was likewise a Holy-day, when there was no Officer at the Exchequer to receive it, nor no damage to the Government; and so hard they were pressed, that for the neglect they were forced to submit their Inheritance to a term of twenty one Years, and which is now reduced to a bare warning of three Years. This was a greater hardship upon the Old Company, than it will be upon the New, not to let them enjoy the Trade, but to pay them their Mony off some other way.</p>
+            <p>The new Subscribers, and particularly the new Joynt Stock, deserve the less Compassion for these Reasons among many others.</p>
+            <pb n="16" facs="tcp:37132:9"/>
+            <p>
+               <hi>First,</hi> They have contrived their Project with considerati<g ref="char:EOLhyphen"/>on only to their own Gain, without any regard Publick or Private; as to the Publick, they have taken no care of pro<g ref="char:EOLhyphen"/>moting the Woollen Manufacturies, nor to limit their yearly Dealings to such a Sum as may not hurt <hi>England;</hi> and, as to the Concerns of Private Men, 'tis evident they have had no Bowels towards those many Families embarked in the former Stock, which this Undertaking must Ruine, and good Men never desire to Thrive by the Undoing of Others.</p>
+            <p>
+               <hi>Secondly,</hi> They have given no fair Quarter to their Adver<g ref="char:EOLhyphen"/>saries after their Victory, pressing by their Patrons and A<g ref="char:EOLhyphen"/>gents to have the Old Company dissolv'd after three Years Warning, whereas, when a Motion to this purpose was made in the House of Commons, it was rejected with Scorn and Anger. By the Act the Corporation is not dissolved, but, on the contrary, the Estate of the Company is subjected to pay its Debts; but it will be impossible for them so to bring in their Effects as to pay their Debts, if in three Years their Corporation must be determined, for then their Creditors will have no body to Sue.</p>
+            <p>
+               <hi>Thirdly,</hi> 'Tis apparent that they deceiv'd the House of Commons in their Motion relating to the 5 <hi>l. per Cent.</hi> it be<g ref="char:EOLhyphen"/>ing proposed to be in the nature of what is paid to the <hi>Af<g ref="char:EOLhyphen"/>frican</hi> Company, and the separate Traders there, wherein none is to be a gainer, but the whole is to be expended for the preservation and enlarging the Trade; but as this is turned in the Act, the New Joynt-Stock is to have to themselves the whole Benefit of the 5 <hi>l. per Cent.</hi> which cannot be imagined to have been the Sense of the House, who were made believe the greatest number would be separate Traders; for, in that case, had only the Subscribers of 50000 <hi>l.</hi> desired to have been in a Joynt-Stock, and yet never traded, Is it not rediculous to think the other Subscribers must have paid them 5 <hi>l. per Cent.</hi> on their Trade?</p>
+            <pb n="18" facs="tcp:37132:9"/>
+            <p>
+               <hi>Fourthly,</hi> They who procured this Act meerly upon the sug<g ref="char:EOLhyphen"/>gestion that they would make the Trade more free and open to the whole Nation, and who declared, They would not be Incorporated, and whose chief Objection to the Old Charter was, That a few Men, thus Incorporated, engrossed pri<g ref="char:EOLhyphen"/>vately all the Profits of the Trade, and these very Persons, al<g ref="char:EOLhyphen"/>most all of them, having united themselves under a Charter, and now become the greatest Monopoly that was ever known in <hi>England;</hi> Who will be sorry to see such a Company dissol<g ref="char:EOLhyphen"/>ved? Who will have any Compassion to see these Charters de<g ref="char:EOLhyphen"/>clared void, which have been entred into by Men who have been heard to say in publick, That they would have their Right Hands cut off, and others, That they would be Hang'd at the Door, before they would ever be concerned in, or con<g ref="char:EOLhyphen"/>tribute to a Joynt-Stock; which Joynt-Stock, notwithstanding, they have entred into, and with those very Right Hands Sub<g ref="char:EOLhyphen"/>scribed to it, and one of these zealous Advocates for a free Trade being now ready to go as far as <hi>India</hi> to promote the Interest of a Joynt-Stock?</p>
+            <p>
+               <hi>Fifthly,</hi> Because the 200000 <hi>l.</hi> offered to be laid down by the Old Company, would have gone a good way towards pay<g ref="char:EOLhyphen"/>ing off Seamen, who at that time lay eating upon the Publick, whereas, in liew of the said 200000 <hi>l.</hi> (by reason of the ex<g ref="char:EOLhyphen"/>travagant Deductions aforesaid) the King did not receive so much by 60000 <hi>l.</hi> besides the Allowance to Receivers, and the incident Charges before-mentioned.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>You have now my Opinion, which, I am persuaded, will not much incline you to buy New Stock; but you are a Country Gentleman, and may be disappointed in this occasion of lay<g ref="char:EOLhyphen"/>ing out your Money; however, I think, upon several Accounts, you need not be discouraged: For, <hi>First,</hi> if these Subscriptions are void, the <hi>East-India</hi> Trade may be free to be sold to the highest Bidder, and, if it will fetch a good Sum, you and your Neighbours will be pleased, for it may hinder new Taxes.
+<pb n="17" facs="tcp:37132:10"/>
+                     <hi>Secondly,</hi> If, by the Subscriptions being void, the Subscribers have no Interest in the Salt Duty, then may this Tax be abo<g ref="char:EOLhyphen"/>lished, which is so very Clamorous, and so great a Burthen, and the Subscribers be satisfied some other more easie way. You will think I am partial, if I should say, It would be no harm, if the double Duty on Stamp'd Paper were likewise free, for 'tis really a very great Obstruction to all sorts of Law-business.</p>
+                  <p>But, notwithstanding all that I have here said, if a Com<g ref="char:EOLhyphen"/>pany should at any time be established upon a good Foot, with a due regard to our Woollen Manufacturies, and to our home Consumption, and with such Powers in <hi>India</hi> as the Dutch and other Nations have, and think absolutely necessary to carry on the Trade, I should, whatever my own Opinion be of Joynt-Stocks, advise you to be one of the first Subscribers in a new and good Settlement of the Trade, which is all at pre<g ref="char:EOLhyphen"/>sent from,</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your most affectionate Friend, and very faithful Servant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37132:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
